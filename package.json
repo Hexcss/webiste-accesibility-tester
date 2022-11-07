@@ -1,0 +1,24 @@
+{
+  "name": "webiste-accesibility-tester",
+  "version": "1.0.0",
+  "description": "A simple website accessibility tester using JS and Pa11y",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hexcss/webiste-accesibility-tester.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hexcss/webiste-accesibility-tester/issues"
+  },
+  "homepage": "https://github.com/Hexcss/webiste-accesibility-tester#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pa11y": "^6.2.3"
+  }
+}
